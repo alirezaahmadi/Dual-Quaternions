@@ -1,5 +1,4 @@
 
-
 /*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CUDA compatible Quaternion-Library                        %
 % by: Alireza Ahmadi                                        %

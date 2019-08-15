@@ -1,5 +1,3 @@
-
-
 /*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CUDA compatible Dual Quaternion-Library                   %
 % by: Alireza Ahmadi                                        %
