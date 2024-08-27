@@ -10,6 +10,4 @@ If you liked it follow my projects and give me your feedback, will be happy to h
 --- 
  by: Alireza Ahmadi                                     
  University of Bonn- Robotics & Geodetic Engineering
- 
- Alireza.Ahmadi@uni-bonn.de                             
- [www.AliezaAhmadi.xyz](https://www.AlirezaAhmadi.xyz)
+                        
